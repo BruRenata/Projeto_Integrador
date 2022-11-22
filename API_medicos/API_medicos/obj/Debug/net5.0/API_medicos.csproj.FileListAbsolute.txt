@@ -1,0 +1,234 @@
+C:\Users\bruna\OneDrive\Área de Trabalho\PROGRAMAÇÃO\API_medicos\API_medicos\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\bruna\OneDrive\Área de Trabalho\PROGRAMAÇÃO\API_medicos\API_medicos\bin\Debug\net5.0\appsettings.json
+C:\Users\bruna\OneDrive\Área de Trabalho\PROGRAMAÇÃO\API_medicos\API_medicos\bin\Debug\net5.0\API_medicos.exe
+C:\Users\bruna\OneDrive\Área de Trabalho\PROGRAMAÇÃO\API_medicos\API_medicos\bin\Debug\net5.0\API_medicos.deps.json
+C:\Users\bruna\OneDrive\Área de Trabalho\PROGRAMAÇÃO\API_medicos\API_medicos\bin\Debug\net5.0\API_medicos.runtimeconfig.json
+C:\Users\bruna\OneDrive\Área de Trabalho\PROGRAMAÇÃO\API_medicos\API_medicos\bin\Debug\net5.0\API_medicos.runtimeconfig.dev.json
+C:\Users\bruna\OneDrive\Área de Trabalho\PROGRAMAÇÃO\API_medicos\API_medicos\bin\Debug\net5.0\API_medicos.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\PROGRAMAÇÃO\API_medicos\API_medicos\bin\Debug\net5.0\ref\API_medicos.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\PROGRAMAÇÃO\API_medicos\API_medicos\bin\Debug\net5.0\API_medicos.pdb
+C:\Users\bruna\OneDrive\Área de Trabalho\PROGRAMAÇÃO\API_medicos\API_medicos\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\PROGRAMAÇÃO\API_medicos\API_medicos\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\PROGRAMAÇÃO\API_medicos\API_medicos\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\PROGRAMAÇÃO\API_medicos\API_medicos\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\PROGRAMAÇÃO\API_medicos\API_medicos\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\PROGRAMAÇÃO\API_medicos\API_medicos\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\PROGRAMAÇÃO\API_medicos\API_medicos\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\PROGRAMAÇÃO\API_medicos\API_medicos\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\PROGRAMAÇÃO\API_medicos\API_medicos\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\PROGRAMAÇÃO\API_medicos\API_medicos\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\PROGRAMAÇÃO\API_medicos\API_medicos\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\PROGRAMAÇÃO\API_medicos\API_medicos\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\PROGRAMAÇÃO\API_medicos\API_medicos\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\PROGRAMAÇÃO\API_medicos\API_medicos\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\PROGRAMAÇÃO\API_medicos\API_medicos\obj\Debug\net5.0\API_medicos.csproj.AssemblyReference.cache
+C:\Users\bruna\OneDrive\Área de Trabalho\PROGRAMAÇÃO\API_medicos\API_medicos\obj\Debug\net5.0\API_medicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruna\OneDrive\Área de Trabalho\PROGRAMAÇÃO\API_medicos\API_medicos\obj\Debug\net5.0\API_medicos.AssemblyInfoInputs.cache
+C:\Users\bruna\OneDrive\Área de Trabalho\PROGRAMAÇÃO\API_medicos\API_medicos\obj\Debug\net5.0\API_medicos.AssemblyInfo.cs
+C:\Users\bruna\OneDrive\Área de Trabalho\PROGRAMAÇÃO\API_medicos\API_medicos\obj\Debug\net5.0\API_medicos.csproj.CoreCompileInputs.cache
+C:\Users\bruna\OneDrive\Área de Trabalho\PROGRAMAÇÃO\API_medicos\API_medicos\obj\Debug\net5.0\API_medicos.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\bruna\OneDrive\Área de Trabalho\PROGRAMAÇÃO\API_medicos\API_medicos\obj\Debug\net5.0\API_medicos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bruna\OneDrive\Área de Trabalho\PROGRAMAÇÃO\API_medicos\API_medicos\obj\Debug\net5.0\staticwebassets\API_medicos.StaticWebAssets.Manifest.cache
+C:\Users\bruna\OneDrive\Área de Trabalho\PROGRAMAÇÃO\API_medicos\API_medicos\obj\Debug\net5.0\staticwebassets\API_medicos.StaticWebAssets.xml
+C:\Users\bruna\OneDrive\Área de Trabalho\PROGRAMAÇÃO\API_medicos\API_medicos\obj\Debug\net5.0\scopedcss\bundle\API_medicos.styles.css
+C:\Users\bruna\OneDrive\Área de Trabalho\PROGRAMAÇÃO\API_medicos\API_medicos\obj\Debug\net5.0\API_medicos.RazorTargetAssemblyInfo.cache
+C:\Users\bruna\OneDrive\Área de Trabalho\PROGRAMAÇÃO\API_medicos\API_medicos\obj\Debug\net5.0\API_medicos.csproj.CopyComplete
+C:\Users\bruna\OneDrive\Área de Trabalho\PROGRAMAÇÃO\API_medicos\API_medicos\obj\Debug\net5.0\API_medicos.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\PROGRAMAÇÃO\API_medicos\API_medicos\obj\Debug\net5.0\ref\API_medicos.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\PROGRAMAÇÃO\API_medicos\API_medicos\obj\Debug\net5.0\API_medicos.pdb
+C:\Users\bruna\OneDrive\Área de Trabalho\PROGRAMAÇÃO\API_medicos\API_medicos\obj\Debug\net5.0\API_medicos.genruntimeconfig.cache
+C:\Users\Projetos\Desktop\Programação\API_medicos\API_medicos\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Projetos\Desktop\Programação\API_medicos\API_medicos\bin\Debug\net5.0\appsettings.json
+C:\Users\Projetos\Desktop\Programação\API_medicos\API_medicos\bin\Debug\net5.0\API_medicos.exe
+C:\Users\Projetos\Desktop\Programação\API_medicos\API_medicos\bin\Debug\net5.0\API_medicos.deps.json
+C:\Users\Projetos\Desktop\Programação\API_medicos\API_medicos\bin\Debug\net5.0\API_medicos.runtimeconfig.json
+C:\Users\Projetos\Desktop\Programação\API_medicos\API_medicos\bin\Debug\net5.0\API_medicos.runtimeconfig.dev.json
+C:\Users\Projetos\Desktop\Programação\API_medicos\API_medicos\bin\Debug\net5.0\API_medicos.dll
+C:\Users\Projetos\Desktop\Programação\API_medicos\API_medicos\bin\Debug\net5.0\ref\API_medicos.dll
+C:\Users\Projetos\Desktop\Programação\API_medicos\API_medicos\bin\Debug\net5.0\API_medicos.pdb
+C:\Users\Projetos\Desktop\Programação\API_medicos\API_medicos\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\Projetos\Desktop\Programação\API_medicos\API_medicos\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\Projetos\Desktop\Programação\API_medicos\API_medicos\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Projetos\Desktop\Programação\API_medicos\API_medicos\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\Projetos\Desktop\Programação\API_medicos\API_medicos\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Projetos\Desktop\Programação\API_medicos\API_medicos\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\Projetos\Desktop\Programação\API_medicos\API_medicos\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\Projetos\Desktop\Programação\API_medicos\API_medicos\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Projetos\Desktop\Programação\API_medicos\API_medicos\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Projetos\Desktop\Programação\API_medicos\API_medicos\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Projetos\Desktop\Programação\API_medicos\API_medicos\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Projetos\Desktop\Programação\API_medicos\API_medicos\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Projetos\Desktop\Programação\API_medicos\API_medicos\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Projetos\Desktop\Programação\API_medicos\API_medicos\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Projetos\Desktop\Programação\API_medicos\API_medicos\obj\Debug\net5.0\API_medicos.csproj.AssemblyReference.cache
+C:\Users\Projetos\Desktop\Programação\API_medicos\API_medicos\obj\Debug\net5.0\API_medicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Projetos\Desktop\Programação\API_medicos\API_medicos\obj\Debug\net5.0\API_medicos.AssemblyInfoInputs.cache
+C:\Users\Projetos\Desktop\Programação\API_medicos\API_medicos\obj\Debug\net5.0\API_medicos.AssemblyInfo.cs
+C:\Users\Projetos\Desktop\Programação\API_medicos\API_medicos\obj\Debug\net5.0\API_medicos.csproj.CoreCompileInputs.cache
+C:\Users\Projetos\Desktop\Programação\API_medicos\API_medicos\obj\Debug\net5.0\API_medicos.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Projetos\Desktop\Programação\API_medicos\API_medicos\obj\Debug\net5.0\API_medicos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Projetos\Desktop\Programação\API_medicos\API_medicos\obj\Debug\net5.0\staticwebassets\API_medicos.StaticWebAssets.Manifest.cache
+C:\Users\Projetos\Desktop\Programação\API_medicos\API_medicos\obj\Debug\net5.0\staticwebassets\API_medicos.StaticWebAssets.xml
+C:\Users\Projetos\Desktop\Programação\API_medicos\API_medicos\obj\Debug\net5.0\scopedcss\bundle\API_medicos.styles.css
+C:\Users\Projetos\Desktop\Programação\API_medicos\API_medicos\obj\Debug\net5.0\API_medicos.RazorTargetAssemblyInfo.cache
+C:\Users\Projetos\Desktop\Programação\API_medicos\API_medicos\obj\Debug\net5.0\API_medicos.csproj.CopyComplete
+C:\Users\Projetos\Desktop\Programação\API_medicos\API_medicos\obj\Debug\net5.0\API_medicos.dll
+C:\Users\Projetos\Desktop\Programação\API_medicos\API_medicos\obj\Debug\net5.0\ref\API_medicos.dll
+C:\Users\Projetos\Desktop\Programação\API_medicos\API_medicos\obj\Debug\net5.0\API_medicos.pdb
+C:\Users\Projetos\Desktop\Programação\API_medicos\API_medicos\obj\Debug\net5.0\API_medicos.genruntimeconfig.cache
+C:\Users\Projetos\Desktop\Programação\API_Medicos_tudo\API_medicos\API_medicos\obj\Debug\net5.0\API_medicos.csproj.AssemblyReference.cache
+C:\Users\Projetos\Desktop\Programação\API_Medicos_tudo\API_medicos\API_medicos\obj\Debug\net5.0\API_medicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Projetos\Desktop\Programação\API_Medicos_tudo\API_medicos\API_medicos\obj\Debug\net5.0\API_medicos.AssemblyInfoInputs.cache
+C:\Users\Projetos\Desktop\Programação\API_Medicos_tudo\API_medicos\API_medicos\obj\Debug\net5.0\API_medicos.AssemblyInfo.cs
+C:\Users\Projetos\Desktop\Programação\API_Medicos_tudo\API_medicos\API_medicos\obj\Debug\net5.0\API_medicos.csproj.CoreCompileInputs.cache
+C:\Users\Projetos\Desktop\Programação\API_Medicos_tudo\API_medicos\API_medicos\obj\Debug\net5.0\API_medicos.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Projetos\Desktop\Programação\API_Medicos_tudo\API_medicos\API_medicos\obj\Debug\net5.0\API_medicos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Projetos\Desktop\Programação\API_Medicos_tudo\API_medicos\API_medicos\obj\Debug\net5.0\API_medicos.dll
+C:\Users\Projetos\Desktop\Programação\API_Medicos_tudo\API_medicos\API_medicos\obj\Debug\net5.0\ref\API_medicos.dll
+C:\Users\Projetos\Desktop\Programação\API_Medicos_tudo\API_medicos\API_medicos\obj\Debug\net5.0\API_medicos.pdb
+C:\Users\Projetos\Desktop\Programação\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Projetos\Desktop\Programação\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\appsettings.json
+C:\Users\Projetos\Desktop\Programação\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\API_medicos.exe
+C:\Users\Projetos\Desktop\Programação\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\API_medicos.deps.json
+C:\Users\Projetos\Desktop\Programação\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\API_medicos.runtimeconfig.json
+C:\Users\Projetos\Desktop\Programação\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\API_medicos.runtimeconfig.dev.json
+C:\Users\Projetos\Desktop\Programação\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\API_medicos.dll
+C:\Users\Projetos\Desktop\Programação\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\ref\API_medicos.dll
+C:\Users\Projetos\Desktop\Programação\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\API_medicos.pdb
+C:\Users\Projetos\Desktop\Programação\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\Projetos\Desktop\Programação\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\Projetos\Desktop\Programação\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Projetos\Desktop\Programação\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\Projetos\Desktop\Programação\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Projetos\Desktop\Programação\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\Projetos\Desktop\Programação\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\Projetos\Desktop\Programação\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Projetos\Desktop\Programação\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Projetos\Desktop\Programação\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Projetos\Desktop\Programação\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Projetos\Desktop\Programação\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Projetos\Desktop\Programação\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Projetos\Desktop\Programação\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Projetos\Desktop\Programação\API_Medicos_tudo\API_medicos\API_medicos\obj\Debug\net5.0\staticwebassets\API_medicos.StaticWebAssets.Manifest.cache
+C:\Users\Projetos\Desktop\Programação\API_Medicos_tudo\API_medicos\API_medicos\obj\Debug\net5.0\staticwebassets\API_medicos.StaticWebAssets.xml
+C:\Users\Projetos\Desktop\Programação\API_Medicos_tudo\API_medicos\API_medicos\obj\Debug\net5.0\scopedcss\bundle\API_medicos.styles.css
+C:\Users\Projetos\Desktop\Programação\API_Medicos_tudo\API_medicos\API_medicos\obj\Debug\net5.0\API_medicos.RazorTargetAssemblyInfo.cache
+C:\Users\Projetos\Desktop\Programação\API_Medicos_tudo\API_medicos\API_medicos\obj\Debug\net5.0\API_medicos.csproj.CopyComplete
+C:\Users\Projetos\Desktop\Programação\API_Medicos_tudo\API_medicos\API_medicos\obj\Debug\net5.0\API_medicos.genruntimeconfig.cache
+D:\Bruna\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\appsettings.Development.json
+D:\Bruna\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\appsettings.json
+D:\Bruna\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\API_medicos.exe
+D:\Bruna\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\API_medicos.deps.json
+D:\Bruna\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\API_medicos.runtimeconfig.json
+D:\Bruna\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\API_medicos.runtimeconfig.dev.json
+D:\Bruna\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\API_medicos.dll
+D:\Bruna\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\ref\API_medicos.dll
+D:\Bruna\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\API_medicos.pdb
+D:\Bruna\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\Google.Protobuf.dll
+D:\Bruna\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+D:\Bruna\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+D:\Bruna\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+D:\Bruna\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Bruna\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\MySql.Data.dll
+D:\Bruna\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\ZstdNet.dll
+D:\Bruna\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\Bruna\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Bruna\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Bruna\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Bruna\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Bruna\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Bruna\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Bruna\API_Medicos_tudo\API_medicos\API_medicos\obj\Debug\net5.0\API_medicos.csprojAssemblyReference.cache
+D:\Bruna\API_Medicos_tudo\API_medicos\API_medicos\obj\Debug\net5.0\API_medicos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bruna\API_Medicos_tudo\API_medicos\API_medicos\obj\Debug\net5.0\API_medicos.AssemblyInfoInputs.cache
+D:\Bruna\API_Medicos_tudo\API_medicos\API_medicos\obj\Debug\net5.0\API_medicos.AssemblyInfo.cs
+D:\Bruna\API_Medicos_tudo\API_medicos\API_medicos\obj\Debug\net5.0\API_medicos.csproj.CoreCompileInputs.cache
+D:\Bruna\API_Medicos_tudo\API_medicos\API_medicos\obj\Debug\net5.0\API_medicos.MvcApplicationPartsAssemblyInfo.cs
+D:\Bruna\API_Medicos_tudo\API_medicos\API_medicos\obj\Debug\net5.0\API_medicos.MvcApplicationPartsAssemblyInfo.cache
+D:\Bruna\API_Medicos_tudo\API_medicos\API_medicos\obj\Debug\net5.0\staticwebassets\API_medicos.StaticWebAssets.Manifest.cache
+D:\Bruna\API_Medicos_tudo\API_medicos\API_medicos\obj\Debug\net5.0\staticwebassets\API_medicos.StaticWebAssets.xml
+D:\Bruna\API_Medicos_tudo\API_medicos\API_medicos\obj\Debug\net5.0\scopedcss\bundle\API_medicos.styles.css
+D:\Bruna\API_Medicos_tudo\API_medicos\API_medicos\obj\Debug\net5.0\API_medicos.RazorTargetAssemblyInfo.cache
+D:\Bruna\API_Medicos_tudo\API_medicos\API_medicos\obj\Debug\net5.0\API_medicos.csproj.CopyComplete
+D:\Bruna\API_Medicos_tudo\API_medicos\API_medicos\obj\Debug\net5.0\API_medicos.dll
+D:\Bruna\API_Medicos_tudo\API_medicos\API_medicos\obj\Debug\net5.0\ref\API_medicos.dll
+D:\Bruna\API_Medicos_tudo\API_medicos\API_medicos\obj\Debug\net5.0\API_medicos.pdb
+D:\Bruna\API_Medicos_tudo\API_medicos\API_medicos\obj\Debug\net5.0\API_medicos.genruntimeconfig.cache
+C:\Users\bruna\OneDrive\Área de Trabalho\PROGRAMAÇÃO\Bruna\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\bruna\OneDrive\Área de Trabalho\PROGRAMAÇÃO\Bruna\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\appsettings.json
+C:\Users\bruna\OneDrive\Área de Trabalho\PROGRAMAÇÃO\Bruna\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\API_medicos.exe
+C:\Users\bruna\OneDrive\Área de Trabalho\PROGRAMAÇÃO\Bruna\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\API_medicos.deps.json
+C:\Users\bruna\OneDrive\Área de Trabalho\PROGRAMAÇÃO\Bruna\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\API_medicos.runtimeconfig.json
+C:\Users\bruna\OneDrive\Área de Trabalho\PROGRAMAÇÃO\Bruna\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\API_medicos.runtimeconfig.dev.json
+C:\Users\bruna\OneDrive\Área de Trabalho\PROGRAMAÇÃO\Bruna\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\API_medicos.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\PROGRAMAÇÃO\Bruna\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\ref\API_medicos.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\PROGRAMAÇÃO\Bruna\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\API_medicos.pdb
+C:\Users\bruna\OneDrive\Área de Trabalho\PROGRAMAÇÃO\Bruna\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\PROGRAMAÇÃO\Bruna\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\PROGRAMAÇÃO\Bruna\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\PROGRAMAÇÃO\Bruna\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\PROGRAMAÇÃO\Bruna\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\PROGRAMAÇÃO\Bruna\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\PROGRAMAÇÃO\Bruna\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\PROGRAMAÇÃO\Bruna\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\PROGRAMAÇÃO\Bruna\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\PROGRAMAÇÃO\Bruna\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\PROGRAMAÇÃO\Bruna\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\PROGRAMAÇÃO\Bruna\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\PROGRAMAÇÃO\Bruna\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\PROGRAMAÇÃO\Bruna\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\PROGRAMAÇÃO\Bruna\API_Medicos_tudo\API_medicos\API_medicos\obj\Debug\net5.0\API_medicos.csproj.AssemblyReference.cache
+C:\Users\bruna\OneDrive\Área de Trabalho\PROGRAMAÇÃO\Bruna\API_Medicos_tudo\API_medicos\API_medicos\obj\Debug\net5.0\API_medicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruna\OneDrive\Área de Trabalho\PROGRAMAÇÃO\Bruna\API_Medicos_tudo\API_medicos\API_medicos\obj\Debug\net5.0\API_medicos.AssemblyInfoInputs.cache
+C:\Users\bruna\OneDrive\Área de Trabalho\PROGRAMAÇÃO\Bruna\API_Medicos_tudo\API_medicos\API_medicos\obj\Debug\net5.0\API_medicos.AssemblyInfo.cs
+C:\Users\bruna\OneDrive\Área de Trabalho\PROGRAMAÇÃO\Bruna\API_Medicos_tudo\API_medicos\API_medicos\obj\Debug\net5.0\API_medicos.csproj.CoreCompileInputs.cache
+C:\Users\bruna\OneDrive\Área de Trabalho\PROGRAMAÇÃO\Bruna\API_Medicos_tudo\API_medicos\API_medicos\obj\Debug\net5.0\API_medicos.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\bruna\OneDrive\Área de Trabalho\PROGRAMAÇÃO\Bruna\API_Medicos_tudo\API_medicos\API_medicos\obj\Debug\net5.0\API_medicos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bruna\OneDrive\Área de Trabalho\PROGRAMAÇÃO\Bruna\API_Medicos_tudo\API_medicos\API_medicos\obj\Debug\net5.0\staticwebassets\API_medicos.StaticWebAssets.Manifest.cache
+C:\Users\bruna\OneDrive\Área de Trabalho\PROGRAMAÇÃO\Bruna\API_Medicos_tudo\API_medicos\API_medicos\obj\Debug\net5.0\staticwebassets\API_medicos.StaticWebAssets.xml
+C:\Users\bruna\OneDrive\Área de Trabalho\PROGRAMAÇÃO\Bruna\API_Medicos_tudo\API_medicos\API_medicos\obj\Debug\net5.0\scopedcss\bundle\API_medicos.styles.css
+C:\Users\bruna\OneDrive\Área de Trabalho\PROGRAMAÇÃO\Bruna\API_Medicos_tudo\API_medicos\API_medicos\obj\Debug\net5.0\API_medicos.RazorTargetAssemblyInfo.cache
+C:\Users\bruna\OneDrive\Área de Trabalho\PROGRAMAÇÃO\Bruna\API_Medicos_tudo\API_medicos\API_medicos\obj\Debug\net5.0\API_medicos.csproj.CopyComplete
+C:\Users\bruna\OneDrive\Área de Trabalho\PROGRAMAÇÃO\Bruna\API_Medicos_tudo\API_medicos\API_medicos\obj\Debug\net5.0\API_medicos.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\PROGRAMAÇÃO\Bruna\API_Medicos_tudo\API_medicos\API_medicos\obj\Debug\net5.0\ref\API_medicos.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\PROGRAMAÇÃO\Bruna\API_Medicos_tudo\API_medicos\API_medicos\obj\Debug\net5.0\API_medicos.pdb
+C:\Users\bruna\OneDrive\Área de Trabalho\PROGRAMAÇÃO\Bruna\API_Medicos_tudo\API_medicos\API_medicos\obj\Debug\net5.0\API_medicos.genruntimeconfig.cache
+D:\Bruna\Bruna\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\appsettings.Development.json
+D:\Bruna\Bruna\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\appsettings.json
+D:\Bruna\Bruna\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\API_medicos.exe
+D:\Bruna\Bruna\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\API_medicos.deps.json
+D:\Bruna\Bruna\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\API_medicos.runtimeconfig.json
+D:\Bruna\Bruna\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\API_medicos.runtimeconfig.dev.json
+D:\Bruna\Bruna\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\API_medicos.dll
+D:\Bruna\Bruna\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\ref\API_medicos.dll
+D:\Bruna\Bruna\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\API_medicos.pdb
+D:\Bruna\Bruna\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\Google.Protobuf.dll
+D:\Bruna\Bruna\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+D:\Bruna\Bruna\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+D:\Bruna\Bruna\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+D:\Bruna\Bruna\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Bruna\Bruna\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\MySql.Data.dll
+D:\Bruna\Bruna\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\ZstdNet.dll
+D:\Bruna\Bruna\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\Bruna\Bruna\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Bruna\Bruna\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Bruna\Bruna\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Bruna\Bruna\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Bruna\Bruna\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Bruna\Bruna\API_Medicos_tudo\API_medicos\API_medicos\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Bruna\Bruna\API_Medicos_tudo\API_medicos\API_medicos\obj\Debug\net5.0\API_medicos.csprojAssemblyReference.cache
+D:\Bruna\Bruna\API_Medicos_tudo\API_medicos\API_medicos\obj\Debug\net5.0\API_medicos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bruna\Bruna\API_Medicos_tudo\API_medicos\API_medicos\obj\Debug\net5.0\API_medicos.AssemblyInfoInputs.cache
+D:\Bruna\Bruna\API_Medicos_tudo\API_medicos\API_medicos\obj\Debug\net5.0\API_medicos.AssemblyInfo.cs
+D:\Bruna\Bruna\API_Medicos_tudo\API_medicos\API_medicos\obj\Debug\net5.0\API_medicos.csproj.CoreCompileInputs.cache
+D:\Bruna\Bruna\API_Medicos_tudo\API_medicos\API_medicos\obj\Debug\net5.0\API_medicos.MvcApplicationPartsAssemblyInfo.cs
+D:\Bruna\Bruna\API_Medicos_tudo\API_medicos\API_medicos\obj\Debug\net5.0\API_medicos.MvcApplicationPartsAssemblyInfo.cache
+D:\Bruna\Bruna\API_Medicos_tudo\API_medicos\API_medicos\obj\Debug\net5.0\staticwebassets\API_medicos.StaticWebAssets.Manifest.cache
+D:\Bruna\Bruna\API_Medicos_tudo\API_medicos\API_medicos\obj\Debug\net5.0\staticwebassets\API_medicos.StaticWebAssets.xml
+D:\Bruna\Bruna\API_Medicos_tudo\API_medicos\API_medicos\obj\Debug\net5.0\scopedcss\bundle\API_medicos.styles.css
+D:\Bruna\Bruna\API_Medicos_tudo\API_medicos\API_medicos\obj\Debug\net5.0\API_medicos.RazorTargetAssemblyInfo.cache
+D:\Bruna\Bruna\API_Medicos_tudo\API_medicos\API_medicos\obj\Debug\net5.0\API_medicos.csproj.CopyComplete
+D:\Bruna\Bruna\API_Medicos_tudo\API_medicos\API_medicos\obj\Debug\net5.0\API_medicos.dll
+D:\Bruna\Bruna\API_Medicos_tudo\API_medicos\API_medicos\obj\Debug\net5.0\ref\API_medicos.dll
+D:\Bruna\Bruna\API_Medicos_tudo\API_medicos\API_medicos\obj\Debug\net5.0\API_medicos.pdb
+D:\Bruna\Bruna\API_Medicos_tudo\API_medicos\API_medicos\obj\Debug\net5.0\API_medicos.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Metahaush\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Metahaush\\.nuget\\packages"
+    ]
+  }
+}
